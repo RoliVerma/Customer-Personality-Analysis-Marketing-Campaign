@@ -1,0 +1,1 @@
+Utilize clustering algorithms to segment customers based on their spending behavior and demographic information. Provide actionable insights to marketing teams for targeted campaign strategies.
